@@ -1,4 +1,4 @@
-# Cart-3D-Mode
+# Cart-3D-Model
 
 Final Project for Purdue CGT 163
 
